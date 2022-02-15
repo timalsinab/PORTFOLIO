@@ -1,4 +1,4 @@
-# [Personal Portfolio](https://lucasangelo.github.io/)
+# [Personal Portfolio](https://lucas-angelo.github.io/portfolio)
 
 <h3 align="center">
     <p align="center">
